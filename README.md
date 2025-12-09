@@ -45,7 +45,7 @@ Execute the programs and publish them.
 <font color="magenta"><b>CHENNAI</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>LOKESH</b></font>
+<font color="blue"><b>RAGAVAN</b></font>
 </h3>
 <center>
 <map name="MyCity">
@@ -153,7 +153,7 @@ Perungalathur is a town located in the southern part of Chennai, Tamil Nadu, Ind
 
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-12-09 215749" src="https://github.com/user-attachments/assets/ddbc653d-a24e-48a3-9c77-89b70bddbc3a" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9e3fbede-b8fa-4b23-83b5-85afd6ec63ca" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-09 222043" src="https://github.com/user-attachments/assets/6f6106e9-f66e-4dcf-9228-757619b96d1b" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-09 222429" src="https://github.com/user-attachments/assets/c6e5f951-e250-444c-a99a-1254553d1c16" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-09 222703" src="https://github.com/user-attachments/assets/13696f30-48c5-43e9-b850-667f37c511d0" />
